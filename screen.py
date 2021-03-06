@@ -20,3 +20,5 @@ def record():
 
     cv2.destroyAllWindows()
     out.release()
+    
+record()
